@@ -1,7 +1,5 @@
-# TechnoAmdavad
+# Techno Amdavad Online Magazine Portal
 
-technoamdavad.gq is an online portal for my magazine ‘Techno Amdavad’ that hosts many tech related articles and allows the user to find, navigate and read particular articles from the site. The articles include latest advances in the technological community and the upcoming exiting electronical launches that serve as a breakthrough in the technological environment.
-
-The flow starts when admin builds a new addition of the tech magazine, implementing new features while adding articles regularly.
- 
-Users can browse the existing articles and download any new additions of the magazine while registration on site is optional and available only after the user has opted for a subscription. A chat bot will eventually help the user find and read any particular tech article. They also get the mail notification for the release of latest articles and they can also download specific articles. They can also interact with AI bot (Developed with IBM Watson) for any queries or guidelines.
+●	Techno Amdavad is an innovative online platform that hosts a dynamic tech-focused magazine, providing a curated collection of articles that explore the latest advancements in the technological landscape. The website, technoamdavad.gq, serves as an engaging hub for tech enthusiasts to discover, navigate, and read articles on cutting-edge technologies, upcoming electronic launches, and breakthroughs within the tech community.
+●	Users can effortlessly browse and read articles on the platform, benefiting from an intuitive and user-friendly interface. The platform features an AI-powered chat bot, developed using IBM Watson technology. This chat bot aids users in addressing queries and providing guidance.
+●	The Techno Amdavad project showcases my proficiency in AI integration, web development using WordPress and Elementor, cloud deployment with GCP, and front-end technologies such as HTML and CSS. This project underscores my ability to create user-centric online experiences and effectively manage a tech-focused content platform.
